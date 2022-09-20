@@ -84,10 +84,10 @@ h3 {
 
 .scoreboard-home,
 .scoreboard-guest {
-  width: 8.75em;
+  width: 10em;
   background-color: var(--scoreboard);
   margin: 1.25em auto;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 h2 {
