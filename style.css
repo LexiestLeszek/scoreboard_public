@@ -1,7 +1,7 @@
 /* === CSS Variables === */
 
 :root {
-  --background: rgba(27, 36, 74, 1);
+  --background: rgba(20, 35, 70, 1);
   --primary: rgba(154, 171, 216, 1);
   --heading: rgba(238, 238, 238, 1);
   --text: rgba(249, 79, 109, 1);
@@ -50,7 +50,7 @@ body {
 /* === Heading === */
 
 .heading {
-  font-family: "Verdana", sans-serif;
+  font-family: "Open Sans", sans-serif;
   color: var(--heading);
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -76,7 +76,7 @@ body {
 }
 
 h3 {
-  font-family: "Verdana", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 2.5rem;
 }
 
@@ -136,7 +136,7 @@ h2 {
 @media (max-width: 667px) {
 
   .container {
-    margin: 5em;
+    margin: 6em;
   }
 
 }
